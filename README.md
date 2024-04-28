@@ -7,4 +7,4 @@ This project explores the application of Generative Adversarial Networks (GANs) 
 |-----------------|-----------------|
 | Zihan Cao | c.zihan@duke.edu |
 | Yuxuan Gu | yuxuan.gu@duke.edu |
-| Jiazheng Sun | yuxuan.gu@duke.edu |
+| Jiazheng Sun | jiazheng.sun@duke.edu |
